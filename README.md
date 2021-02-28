@@ -32,3 +32,6 @@ npm start
 ## LICENSE
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
+
+## ThanksTo
+Thanks to @bradtraversy's awesome react tutorial - [Link](https://github.com/bradtraversy/react-crash-2021)
