@@ -1,5 +1,5 @@
 # WebTaskManager
-> A simple React based webpage to mange task
+> A simple React-based webpage to manage tasks
 
 ![](WebTaskManager.png)
 
